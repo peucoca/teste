@@ -1,0 +1,186 @@
+COIG - Comunicação de Ocorrência Grave e Indisponibilidade Prolongada em Empreendimentos de Geração,,,,,,,,,
+Número ONS SGI,Tipo de Desligamento,Nome Longo do Equipamento,Agente Proprietário da UGE,Nº CEG,Data de Início Efetivo,1ª Data de Fim Prevista,Data de Fim Prevista,Nº Reprogramações,Descrição do Serviço
+320/2022,Emergência,UG   33 MW UT WILL. ARJONA           3 MS,DELTA GERAÇÃO,UTE.GN.MS.027075-0.01,04/01/2022 08:00:00,04/01/2022 23:59:00,14/01/2022 17:00:00,12,Verificação dos permissivos de arranque
+3.913/2022,Programado em Regime Normal,UG   35 MW UH BARRA BONITA           3 SP,AES BRASIL OPERAÇÕES,UHE.PH.SP.000208-9.01,02/03/2022 08:09:00,03/04/2023 17:00:00,03/04/2023 17:00:00,1,"Realização de modernização geral da unidade geradora 03.
+1. Descomissionamento:
+a)Ensaios com UG parada:
+• Instrumentar a UG;
+• Tempos de abertura e fechamento do rotor Kaplan;
+• Tempo de abertura e fechamento do distribuidor;
+• Tempo de fechamento em emergência do distribuidor;
+• Intermitência das bombas de regulação.
+
+b)Ensaios com UG rodando:
+• Oscilação de eixo nos mancais de Guia;
+• Níveis de vibração global;
+• Temperatura e pressão dos mancais;
+• Níveis de tensão e corrente;
+• Potência ati"
+46.266/2022,Programado em Regime Normal,UG   40 MW APARECIDA                08 AM,ELETRONORTE,UTE.GN.AM.027250-7.02,05/05/2022 16:39:00,05/05/2022 23:59:00,30/09/2022 17:00:00,0,"Substituição da turbina ESN 191-697 pela turbina ESN 191- 671, dotada de  melhorias estruturais, tais como: Melhoria de Buchas do estator do Compressor de Alta Pressão dos Estágios 3 a 5 do estator Variável, Melhoria da vedação de óleo estacionária do acoplamento nº 3, Melhoria da vedação de ar/óleo estacionária do rolamento nº 1, Melhoria em todo o 1º Estágio do Rotor da Turbina de Baixa Pressão , conforme Nota Técnica OGTUA – 012/2022."
+47.034/2022,Urgência,UG   51 MW M. MORAES                 6 MG,FURNAS,UHE.PH.MG.002038-9.01,26/08/2022 15:50:00,16/09/2022 16:30:00,04/11/2022 16:30:00,1,"RETIRAR COMPORTA DE MANUTENCAO LADO JUSANTE.;INSTALAR ATERRAMENTO TEMPORARIO NO BARRAMENTO DE SAIDA DO GERADOR (CUBICULO DE SURTO).;INSPECIONAR E REPAR O ANEL DISTRUBUÍDOR DA UNIDADE GERADORA.;RODAR A UNIDADE GERADORA POR DUAS HORAS, EM CARGA MÁXIMA, PARA ATENDER A MANOBRA DE ENGANAR PEIXES.;RETIRAR ATERRAMENTO TEMPORARIO DO BARRAMENTO DE SAIDA DO GERADOR (CUBICULO DE SURTO).;COLOCAR COMPORTA DE MANUTENCAO LADO JUSANTE."
+39.610/2022,Programado em Regime Normal,UG   56 MW PORTO ESTRELA             2 MG,PORTO ESTRELA,UHE.PH.MG.027196-9.01,28/07/2022 08:54:00,28/07/2022 16:30:00,28/07/2022 16:30:00,0,Manutenção preventiva e ensaios na seccionadora 2M8 (UG2).
+25.323/2022,Programado em Regime Normal,UG   60 MW FUNIL GRANDE              2 MG,ALIANÇA,UHE.PH.MG.001006-5.01,01/06/2022 06:05:00,30/07/2022 17:00:00,30/09/2022 16:00:00,4,Modernização do sistema de proteção e controle da Unidade Geradora 02 da UHE Funil.
+45.727/2022,Programado em Regime Normal,UG   75 MW UHE JIRAU                11 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,28/06/2022 12:32:00,01/07/2022 23:59:00,06/10/2022 23:59:00,0,"MANUTENÇÃO CORRETIVA PROGRAMADA NA UG11, COM INTERVENÇÃO PRINCIPAL DE INSTALAÇÃO DO REFORÇO (CADEADO) NO ARO CÂMARA E APLICAÇÃO DE REVESTIMENTO PROTETIVO (BELZONA) NAS PÁS DO ROTOR KAPLAN DA UNIDADE."
+46.995/2022,Programado em Regime Normal,UG   75 MW UHE JIRAU                19 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,20/08/2022 14:54:00,01/09/2022 23:59:00,24/11/2022 23:59:00,1,PARADA PROGRAMADA DA UNIDADE GERADORA 19 PARA REALIZAR REPARO DE CAVITAÇÃO NAS PÁS DO ROTOR KAPLAN.
+46.996/2022,Programado em Regime Normal,UG   75 MW UHE JIRAU                20 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,06/09/2022 03:06:00,06/09/2022 12:00:00,17/10/2022 23:59:00,0,"MANUTENÇÃO PROGRAMADA NA UG20, COM INTERVENÇÃO PRINCIPAL DE MANUTENÇÃO QUADRIENAL ELÉTRICA NO GERADOR E AUXILIARES."
+49.725/2022,Urgência,UG   75 MW UHE JIRAU                21 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,10/08/2022 09:41:00,30/08/2022 23:59:00,30/09/2022 23:59:00,0,"DESLIGAMENTO DAS UNIDADES GERADORA 21, 22, 23 E 24 PARA POSSIBILITAR ATIVIDADE SEGURA DE LANÇAMENTO DAS POITAS PARA NOVO LOG BOOM DA UHE JIRAU."
+49.725/2022,Urgência,UG   75 MW UHE JIRAU                22 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,09/08/2022 10:49:00,09/08/2022 23:59:00,30/09/2022 23:59:00,0,"DESLIGAMENTO DAS UNIDADES GERADORA 21, 22, 23 E 24 PARA POSSIBILITAR ATIVIDADE SEGURA DE LANÇAMENTO DAS POITAS PARA NOVO LOG BOOM DA UHE JIRAU."
+49.725/2022,Urgência,UG   75 MW UHE JIRAU                23 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,10/08/2022 09:41:00,30/08/2022 23:59:00,30/09/2022 23:59:00,0,"DESLIGAMENTO DAS UNIDADES GERADORA 21, 22, 23 E 24 PARA POSSIBILITAR ATIVIDADE SEGURA DE LANÇAMENTO DAS POITAS PARA NOVO LOG BOOM DA UHE JIRAU."
+49.725/2022,Urgência,UG   75 MW UHE JIRAU                24 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,10/08/2022 09:41:00,30/08/2022 23:59:00,30/09/2022 23:59:00,0,"DESLIGAMENTO DAS UNIDADES GERADORA 21, 22, 23 E 24 PARA POSSIBILITAR ATIVIDADE SEGURA DE LANÇAMENTO DAS POITAS PARA NOVO LOG BOOM DA UHE JIRAU."
+49.612/2022,Urgência,UG   75 MW UHE JIRAU                25 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,24/08/2022 10:05:00,30/08/2022 23:59:00,30/09/2022 23:59:00,0,"DESLIGAMENTO DAS UNIDADES GERADORA 25, 26, 27 E 28 PARA POSSIBILITAR ATIVIDADE SEGURA DE LANÇAMENTO DAS POITAS PARA NOVO LOG BOOM DA UHE JIRAU."
+49.612/2022,Urgência,UG   75 MW UHE JIRAU                26 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,24/08/2022 10:11:00,30/08/2022 23:59:00,30/09/2022 23:59:00,0,"DESLIGAMENTO DAS UNIDADES GERADORA 25, 26, 27 E 28 PARA POSSIBILITAR ATIVIDADE SEGURA DE LANÇAMENTO DAS POITAS PARA NOVO LOG BOOM DA UHE JIRAU."
+49.612/2022,Urgência,UG   75 MW UHE JIRAU                27 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,31/08/2022 09:32:00,02/09/2022 23:59:00,30/09/2022 23:59:00,0,"DESLIGAMENTO DAS UNIDADES GERADORA 25, 26, 27 E 28 PARA POSSIBILITAR ATIVIDADE SEGURA DE LANÇAMENTO DAS POITAS PARA NOVO LOG BOOM DA UHE JIRAU."
+49.612/2022,Urgência,UG   75 MW UHE JIRAU                28 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,31/08/2022 09:32:00,02/09/2022 23:59:00,30/09/2022 23:59:00,0,"DESLIGAMENTO DAS UNIDADES GERADORA 25, 26, 27 E 28 PARA POSSIBILITAR ATIVIDADE SEGURA DE LANÇAMENTO DAS POITAS PARA NOVO LOG BOOM DA UHE JIRAU."
+28.086/2022,Programado em Regime Normal,UG   75 MW UHE JIRAU                36 RO,JIRAU ENERGIA,UHE.PH.RO.029736-4.01,09/06/2022 10:14:00,15/08/2022 23:59:00,13/10/2022 23:59:00,2,"MANUTENÇÃO CORRETIVA PROGRAMADA NA UG36, COM INTERVENÇÃO PRINCIPAL DE MODIFICAÇÃO NO ANEL DE REGULAÇÃO E APLICAÇÃO DE REVESTIMENTO PROTETIVO (BELZONA) NAS PÁS DO ROTOR KAPLAN DA UNIDADE."
+18.081/2022,Emergência,UG   95 MW U.PIRATININGA             3 SP,BSE,UTE.PE.SP.002082-6.01,07/04/2022 21:55:00,11/04/2022 23:59:00,30/08/2023 17:00:00,2,"- Reparo na fase vermelha do banco de transformadores da UG-03(TV).
+
+- Para a realização da atividade haverá a necessidade de isolamento do disjuntor R e abertura das chaves seccionadoras 1018 e 1019."
+21.954/2022,Programado em Regime Normal,UG  100 MW APOLONIO SALES            2 BA,CHESF,UHE.PH.AL.001510-5.01,03/03/2022 10:32:00,15/03/2022 17:00:00,30/09/2022 17:00:00,7,"MP de 70.000h na 01G2;
+Serviço de ajustes de mancais e verticalidade;
+Correção de posicionamento da comporta de adução;
+Instalação da nova tubulação de ar comprimido;
+Substituição vedação das pás do rotor turbina."
+48.911/2022,Emergência,UG  108 MW TERMORIO                 28 RJ,PETROBRAS,UTE.GN.RJ.027888-2.01,05/09/2022 16:51:00,30/09/2022 23:59:00,30/09/2022 23:59:00,0,"Inspeção C da UG, por horas de operação."
+72.715/2021,Programado em Regime Normal,UG  110 MW JUPIA                     3 SP,RIO PARANA ENERGIA,UHE.PH.SP.001282-3.01,06/10/2021 11:00:00,06/10/2021 17:00:00,02/01/2023 17:00:00,0,Reforma Geral e Modernização da Unidade Geradora Nº03.
+45.780/2022,Emergência,UG  167 MW CUIABA                    1 MT,AMBAR ENERGIA,UTE.GN.MT.027003-2.01,19/08/2022 21:44:00,24/08/2022 23:59:00,30/09/2022 23:59:00,2,Adequação dos conectores na interligação da linha da usinas PCS com o barramento 2 da SE UTE Cuiabá
+20.655/2022,Programado em Regime Normal,UG  175 MW U.S.OSORIO                6 PR,ENGIE,UHE.PH.PR.002659-0.01,03/05/2022 15:58:00,28/11/2022 08:00:00,28/11/2022 08:00:00,0,"- MODERNIZAÇÃO DA UNIDADE GERADORA E AUXILIARES, COMPREENDENDO ATIVIDADES NO GERADOR (COM REPOTENCIAÇÃO), TURBINA (COM REPOTENCIAÇÃO), SISTEMA DIGITAL DE SUPERVISÃO, REGULADORES DE TENSÃO E REGULADORES DE VELOCIDADE.
+
+- REPOTENCIAÇÃO DO TRANSFORMADOR ELEVADOR."
+9.813/2022,Programado em Regime de Urgência,UG  176 MW ILHA SOLTEIRA             4 SP,RIO PARANA ENERGIA,UHE.PH.SP.001120-7.01,25/03/2022 06:36:00,25/03/2022 06:00:00,25/03/2023 23:00:00,2,Reforma Geral e Modernização da Unidade Geradora Nº04.
+48.547/2022,Programado em Regime Normal,UG  186 MW MARIMBONDO                2 MG,FURNAS,UHE.PH.MG.001417-6.01,12/09/2022 07:32:00,28/09/2022 17:00:00,28/09/2022 17:00:00,0,"1 ATERRAR CUBICULO DE SURTOS DA UG02.;
+2 DESATERRAR TRANSFORMADORES PRINCIPAIS FASES  A,B E C.;
+3 DESCONECTAR E RETIRAR DA BAIA O TRANSFORMADOR PRINCIPAL DA FASE B (302351).;
+4 ATERRAR TRANSFORMADORES PRINCIPAIS FASES A , B E C.;
+5 DESATERRAR CUBÍCULO DE SURTOS DA UG;
+6 INSTALAR E TESTAR TRANSFORMADOR  PRINCIPAL NOVO WEG  DA FASE B, CONFORME CONTRATO 8000011492.;
+7 SUBSTITUIR RELE SUPERVISÃO DE FALTA DE FASE ALIMENTAÇÃO AC DE COMPORTA DE SERVIÇO.;
+8 EFETUAR LIMPEZA GERAL NO SISTEMA DE RESFRIAMEN"
+25.830/2022,Emergência,UG  198 MW P. AFONSO III            12 BA,CHESF,UHE.PH.BA.027049-0.01,17/05/2022 21:08:00,14/09/2022 23:59:00,29/12/2023 17:00:00,1,"Verificação, análise e realização de manutenção corretiva UG 01G12/UST."
+46.580/2022,Emergência,UG  198 MW P. AFONSO III            13 BA,CHESF,UHE.PH.BA.027049-0.01,24/08/2022 16:04:00,22/12/2022 23:59:00,22/12/2022 23:59:00,0,Indisponível devido queda do rastelo na tomada dágua.
+45.130/2022,Urgência,UG  246 MW US. L.GONZAGA             2 PE,CHESF,UHE.PH.PE.001174-6.01,22/08/2022 09:31:00,16/09/2022 17:00:00,22/09/2022 17:00:00,2,"Finalidade da Intervenção na UG 01G2:
+
+1. Modernização do CM2;
+2. Substituição das serpentinas de resfriamento do RV;
+3. Instalação do novo oscilógrafo da rede de proteção;
+4. Outros aproveitamentos."
+49.306/2022,Emergência,UG  350 MW US. TUCURUI              11 PA,ELETRONORTE,UHE.PH.PA.002889-4.01,07/09/2022 11:58:00,19/09/2022 17:00:00,24/09/2022 17:00:00,1,"DESLIGAR A UNIDADE  GERADORA  TUUGH-11 PARA SUBSTITUIÇÃO DA JUNTA ELASTICA COM VAZAMENTO DE
+GRANDE VOLUME DE ÁGUA."
+3.297/2022,Emergência,UG  390 MW US. TUCURUI              15 PA,ELETRONORTE,UHE.PH.PA.002889-4.01,20/01/2022 16:44:00,20/02/2022 17:00:00,30/09/2022 17:00:00,1,"VERIFICADOR A CAUSA DA ATUAÇÃO DA PROTEÇÃO DIFERENCIAL DO GERADOR 87G, FASES B E V."
+20.145/2022,Emergência,UG  419 MW BENTO MUNHOZ              4 PR,FDA GERAÇÃO,UHE.PH.PR.000984-9.01,19/04/2022 10:10:00,19/04/2022 17:00:00,23/11/2022 17:00:00,5,"Verificar e sanar atuação de alarme de segundo estágio de temperatura do metal do mancal escora, com incidência sobre o bloqueio 86M. Sendo que após inspeção foi encontrado o mancal escora avariado, sendo necessário efetuar troca de peças."
+51.237/2022,Emergência,UG 13P8 MW JAGUARI                   1 SP,FURNAS,UHE.PH.SP.027131-4.01,17/09/2022 05:10:00,15/01/2023 23:59:00,15/01/2023 23:59:00,0,INFORMAR INDISPONIBILIDADE.
+49.794/2022,Programado em Regime Normal,UG 16P7 MW UT ERB CANDEI             1 BA,ERB ARATINGA,UTE.FL.BA.030979-6.01,23/08/2022 05:10:00,09/09/2022 00:00:00,23/09/2022 00:00:00,0,Manutenção corretiva do gerador (Foi encontrada baixa isolação no equipamento e por esse motivo se faz necessário realizar a manutenção imediatamente)
+31.683/2021,Emergência,UG 20P5 MW UT.MARACANAU1             5 CE,MARACANAÚ GERAÇÃO,UTE.PE.CE.029654-6.01,19/06/2021 15:51:00,31/08/2021 23:59:00,30/11/2022 23:59:00,7,Manutenção corretiva no gerador da unidade 01G5 devido princípio de incêndio;
+2.462/2022,Programado em Regime Normal,UG 49P8 MW UTE CUBATAO               1 SP,PETROBRAS,UTE.GN.SP.028014-3.01,31/01/2022 13:19:00,30/04/2022 23:59:00,25/09/2022 23:59:00,15,"Parada para realizar manutenção de 100.000 horas de operação (Major) do turbo gerador a vapor (UG-01) da UTE Cubatão e manutenções em diversos sistema auxiliares associados a mesma, de forma a manter a confiabilidade da usina."
+59.517/2020,Emergência,UG 58P1 MW TRES LAGOAS              1B MS,PETROBRAS,UTE.GN.MS.027975-7.01,29/12/2020 16:41:00,29/12/2020 23:30:00,05/09/2022 23:59:00,7,Desligamento automático devido a atuação da proteção por vibração.
+16.830/2022,Emergência,UG 62P5 MW U.D.FRANCISCA             1 RS,DFESA,UHE.PH.RS.027012-1.01,28/02/2022 11:54:00,28/02/2022 17:00:00,05/10/2022 17:00:00,2,"Mellhoria no projeto do Estator da UG01, com a implantação do Sistema de Controle de Expansão no Estator.
+Outros serviços em aproveitamento:
+- Substituição dos blocos de torque e guia, implementando uma melhoria de projeto para contenção do deslocamento radial de chavetas do Rotor;
+- Recuperação das trincas do Rotor."
+35.605/2022,Programado em Regime de Urgência,UG 69P5 MW SANTO ANTONIO            05 RO,SAESA,UHE.PH.RO.029707-0.01,02/07/2022 09:28:00,20/08/2022 23:59:00,04/10/2022 23:59:00,1,"Manutenção programada na Comporta Vagão unidade geradora 05.
+
+Após serviço, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventuais ajustes, e posteriormente sincronizá-la ao SIN."
+47.306/2022,Urgência,UG 69P5 MW SANTO ANTONIO            45 RO,SAESA,UHE.PH.RO.029707-0.01,31/08/2022 05:40:00,05/09/2022 17:00:00,25/09/2022 23:59:00,1,"Manutenção programada na vedação do eixo da unidade geradora 45.
+
+Após serviço, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventuais ajustes, e posteriormente sincronizá-la ao SIN."
+36.567/2022,Urgência,UG 69P5 MW SANTO ANTONIO            47 RO,SAESA,UHE.PH.RO.029707-0.01,07/07/2022 23:18:00,08/07/2022 12:00:00,28/09/2022 23:30:00,0,"Manutenção programada na unidade geradora 47:
+
+- Recuperação de cavitação do rotor e pás Kaplan;
+- Aplicação de Hard Coating - LACTEC.
+
+Após serviço, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventuais ajustes, e posteriormente sincronizá-la ao SIN."
+1/2022,Emergência,UG 70P1 MW GOIANIA II                1 GO,BRENTECH,UTE.PE.GO.029460-8.01,01/01/2022 00:01:00,31/01/2022 23:59:00,31/01/2022 23:59:00,0,"Conforme já declarado pelo agente à ANEEL, considerando o atual cenário dos despachos para operação de geração, tendo em vista as gerações fora da ordem de mérito assumidas no passado, não há possibilidade da operação contínua com o atual CVU, trazendo prejuízos para operação com custo de remuneração fora da atual realidade dos preços de combustível praticados no país. Para que a programação não seja prejudicada com a declaração de disponibilidade da UTE, o agente abre este documento de interven"
+1/2022,Emergência,UG 70P1 MW GOIANIA II                2 GO,BRENTECH,UTE.PE.GO.029460-8.01,01/01/2022 00:01:00,31/01/2022 23:59:00,31/01/2022 23:59:00,0,"Conforme já declarado pelo agente à ANEEL, considerando o atual cenário dos despachos para operação de geração, tendo em vista as gerações fora da ordem de mérito assumidas no passado, não há possibilidade da operação contínua com o atual CVU, trazendo prejuízos para operação com custo de remuneração fora da atual realidade dos preços de combustível praticados no país. Para que a programação não seja prejudicada com a declaração de disponibilidade da UTE, o agente abre este documento de interven"
+65.233/2021,Programado em Regime Normal,UG 71P2 MW NILO PECANHA             14 RJ,LIGHT GT,UHE.PH.RJ.001536-9.01,01/12/2021 17:03:00,09/02/2022 06:00:00,21/12/2022 17:00:00,2,"Os ensaios de descomissionamento que não precisam da máquina sincronizada:
+- Resistência Ôhmica do Rotor;
+- Ensaios Dinâmicos de Descomissionamento - Checagem Geral
+- Ensaio de Aquecimento dos Mancais e Avaliação de Comportamento Dinâmico
+- Ensaio de medição de desvio de forma de onda
+- Registro de Partida sem sincronimso e Parada da Unidade Geradora
+- Ensaio de Rendimento - Determinação das Perdas Segregadas do Gerador
+- Determinação da Queda Líquida Real.
+
+Reforma do gerador e turbina da unida"
+37.847/2022,Programado em Regime de Urgência,UG 73P2 MW SANTO ANTONIO            13 RO,SAESA,UHE.PH.RO.029707-0.01,14/07/2022 14:28:00,17/08/2022 23:30:00,06/10/2022 23:30:00,1,Manutenção programada na Tubulação de Comando do Rotor Kaplan na unidade geradora 13.
+36.014/2022,Urgência,UG 73P2 MW SANTO ANTONIO            14 RO,SAESA,UHE.PH.RO.029707-0.01,10/06/2022 11:55:00,10/06/2022 23:59:00,30/11/2022 23:59:00,0,"Desligar e parar a unidade geradora 14, composta por turbina de 4 pás, durante o período de restrição hídrica por queda alta e/ou baixa vazão afluente ao reservatório.
+
+
+Após parada por restrição hídrica, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventua"
+36.017/2022,Programado em Regime de Urgência,UG 73P2 MW SANTO ANTONIO            17 RO,SAESA,UHE.PH.RO.029707-0.01,25/06/2022 10:32:00,30/10/2022 23:00:00,30/11/2022 23:59:00,0,"Desligar e parar a unidade geradora 17, composta por turbina de 4 pás, durante o período de restrição hídrica por queda alta e/ou baixa vazão afluente ao reservatório.
+
+
+Após parada por restrição hídrica, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventua"
+35.601/2022,Programado em Regime Normal,UG 73P2 MW SANTO ANTONIO            19 RO,SAESA,UHE.PH.RO.029707-0.01,04/07/2022 12:59:00,26/11/2022 23:59:00,26/11/2022 23:59:00,0,"Manutenção programada na unidade geradora 19:
+
+- Manutenção da Vedação do Eixo;
+- Recuperação de Trincas do Aro Câmara;
+- Manutenção na Tubulação de Comando do Rotor Kaplan;
+- Substituição do Regulador de Tensão;
+
+Após serviço, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidad"
+36.024/2022,Programado em Regime Normal,UG 73P2 MW SANTO ANTONIO            20 RO,SAESA,UHE.PH.RO.029707-0.01,15/06/2022 09:00:00,21/06/2022 23:59:00,30/11/2022 23:59:00,0,"Desligar e parar a unidade geradora 20, composta por turbina de 4 pás, durante o período de restrição hídrica por queda alta e/ou baixa vazão afluente ao reservatório.
+
+
+Após parada por restrição hídrica, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventua"
+36.027/2022,Urgência,UG 73P2 MW SANTO ANTONIO            24 RO,SAESA,UHE.PH.RO.029707-0.01,30/05/2022 14:42:00,04/06/2022 23:30:00,30/11/2022 23:59:00,0,"Desligar e parar a unidade geradora 24, composta por turbina de 4 pás, durante o período de restrição hídrica por queda alta e/ou baixa vazão afluente ao reservatório.
+
+
+Após parada por restrição hídrica, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventua"
+36.028/2022,Urgência,UG 73P2 MW SANTO ANTONIO            25 RO,SAESA,UHE.PH.RO.029707-0.01,24/06/2022 10:03:00,01/07/2022 17:00:00,30/11/2022 23:59:00,0,"Desligar e parar a unidade geradora 25, composta por turbina de 4 pás, durante o período de restrição hídrica por queda alta e/ou baixa vazão afluente ao reservatório.
+
+
+Após parada por restrição hídrica, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventua"
+36.029/2022,Urgência,UG 73P2 MW SANTO ANTONIO            26 RO,SAESA,UHE.PH.RO.029707-0.01,20/06/2022 10:17:00,19/08/2022 23:59:00,30/11/2022 23:59:00,0,"Desligar e parar a unidade geradora 26, composta por turbina de 4 pás, durante o período de restrição hídrica por queda alta e/ou baixa vazão afluente ao reservatório.
+
+
+Após parada por restrição hídrica, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventua"
+36.342/2022,Programado em Regime de Urgência,UG 73P2 MW SANTO ANTONIO            27 RO,SAESA,UHE.PH.RO.029707-0.01,06/07/2022 10:57:00,15/07/2022 23:59:00,30/11/2022 23:59:00,1,"Substituição do painel de controle do RT(Regulador de Tensão) - UG27
+
+- Desenergização completa do painel de controle do RT;
+- Identificação e desconexão de todos os cabos de interface do RT com todos os outros painéis e equipamentos;
+- Remoção do painel de controle (ANDRITZ);
+- Montagem/Fixação do novo painel de controle do RT (REIVAX);
+- Reconexão de todos os cabos de interface com os demais painéis e equipamentos;
+- Conferência (teste ponto-a ponto) das conexões elétricas entre RT e outros pa"
+37.848/2022,Programado em Regime Normal,UG 73P2 MW SANTO ANTONIO            28 RO,SAESA,UHE.PH.RO.029707-0.01,15/07/2022 10:22:00,25/11/2022 23:30:00,25/11/2022 23:30:00,0,"Manutenção programada na unidade geradora 28:
+
+- Revisão de 25.000 horas;
+- Manutenção no Anel de Regulação;
+- Substituição das Vedações das Palhetas Diretrizes;
+- Manutenção na Tubulação de Comando do Rotor Kaplan;
+- Substituição do Regulador de Tensão;
+- Modernização do Sistema de Monitoramento de Vibração;
+
+Após serviço, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeçõe"
+36.224/2022,Programado em Regime de Urgência,UG 73P2 MW SANTO ANTONIO            29 RO,SAESA,UHE.PH.RO.029707-0.01,06/07/2022 11:41:00,31/07/2022 00:29:00,30/09/2022 23:59:00,3,Realizar o tratamento de óleo e limpeza dos tanques do sistema de lubrificação dos mancais da unidade geradora 29.
+43.210/2022,Programado em Regime Normal,UG 73P2 MW SANTO ANTONIO            37 RO,SAESA,UHE.PH.RO.029707-0.01,11/08/2022 22:18:00,28/12/2022 23:30:00,28/12/2022 23:30:00,0,"Manutenção programada na unidade geradora 37:
+
+- Manutenção da Vedação do Eixo;
+- Substituição das Vedações das Pás Kaplan;
+- Manutenção na Tubulação de Comando;
+- Recuperação de Trincas do Aro Câmara;
+- Recuperação de Cavitação das pás e cubo do Rotor Kaplan;
+
+Após serviço, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comport"
+35.873/2022,Programado em Regime Normal,UG 73P2 MW SANTO ANTONIO            38 RO,SAESA,UHE.PH.RO.029707-0.01,05/07/2022 10:07:00,25/10/2022 23:30:00,25/10/2022 23:30:00,0,"Manutenção programada na unidade geradora 38:
+
+- Manutenção corretiva no Aro Câmara;
+- Manutenção corretiva no Anel de Regulação;
+- Manutenção na Vedação do Eixo;
+- Modernização do Sistema de Monitoramento de Vibração;
+
+Após serviço, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da"
+36.384/2022,Programado em Regime de Urgência,UG 73P2 MW SANTO ANTONIO            39 RO,SAESA,UHE.PH.RO.029707-0.01,06/07/2022 11:32:00,29/10/2022 23:30:00,29/10/2022 23:30:00,0,"Manutenção programada na unidade geradora 39:
+
+- Manutenção na Tubulação de Comando no Rotor Kaplan;
+- Recuperação de cavitação do rotor e pás Kaplan;
+- Aplicação de Hard Coating - LACTEC."
+36.148/2022,Programado em Regime Normal,UG 73P2 MW SANTO ANTONIO            40 RO,SAESA,UHE.PH.RO.029707-0.01,18/06/2022 10:08:00,21/11/2022 23:59:00,30/11/2022 23:29:00,0,"Desligar e parar a unidade geradora 40, composta por turbina de 4 pás, durante o período de restrição hídrica por queda alta e/ou baixa vazão afluente ao reservatório.
+
+
+Após parada por restrição hídrica, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventua"
+40.835/2022,Programado em Regime de Urgência,UG 73P2 MW SANTO ANTONIO            41 RO,SAESA,UHE.PH.RO.029707-0.01,29/07/2022 09:36:00,24/11/2022 23:30:00,24/11/2022 23:30:00,0,"Manutenção programada na unidade geradora 41:
+
+- Substituição das Vedações das Palhetas Diretrizes;
+- Recuperação de Cavitação das Pás e Cubo do Rotor Kaplan;
+
+Após serviço, será necessário realizar testes na unidade geradora: sincronizada com tomada de carga em degraus para verificações; caso necessário, desligar a unidade geradora para inspeções e/ou ajustes. Durante as verificações de comportamento, poderá ser necessária à parada da unidade geradora para eventuais ajustes, e posteriormente si"
